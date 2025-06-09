@@ -33,7 +33,7 @@ Live Demo: [Click Here](https://vercel.com/amisha-aryanis-projects/calc-craft)
 
 ```bash
 # Clone the repo
-git clone https://github.com/AmishaChaubey/reactulator.git
+git clone https://github.com/AmishaChaubey/calc-craft.git
 
 # Go to the project directory
 cd calculator
