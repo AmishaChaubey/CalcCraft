@@ -16,7 +16,7 @@ A sleek and interactive calculator built with **React.js**. Perform basic arithm
 
 ## 🚀 Demo
 
-Live Demo: [Click Here](https://vercel.com/amisha-aryanis-projects/calc-craft)
+Live Demo: [Click Here](https://calc-craft.vercel.app/)
 
 ---
 
